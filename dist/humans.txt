@@ -1,0 +1,11 @@
+
+# DEVELOPER
+
+    mohammad mirzaei
+
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, SVG,
+    jQuery, Normalize.css,
+    npm and its packages
