@@ -132,7 +132,6 @@ body {
   background-color: #267ae9; }
 
 .header-bottom-box {
-  opacity: 0;
   width: 100%;
   height: auto;
   background-color: #fff;
@@ -543,6 +542,8 @@ body {
 
 @media screen and (min-width: 768px) {
   .choices-main-item {
+    opacity: 0; }
+  .header-bottom-box {
     opacity: 0; } }
 
 @media screen and (min-width: 992px) {

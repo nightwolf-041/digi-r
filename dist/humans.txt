@@ -6,6 +6,7 @@
 
 # TECHNOLOGY COLOPHON
 
-    CSS3, HTML5, SVG,
+    CSS3, HTML5,
     jQuery, Normalize.css,
-    npm and its packages
+    npm and its packages,
+    git
